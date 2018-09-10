@@ -29,6 +29,8 @@
     $(".layui-btn").click(function(){
         var myseatid  = $("#seat-id").text();
         $.ajax({
+            // https://zxs.lib.zhbit.com/tp/index.php/index/select/seat/id/702.html
+            // https://zxs.lib.zhbit.com/tp/index.php/index/Select/seatSure
             url:'/../tp/index.php/index/Select/seatSure',
             type:'POST',
             data:{
