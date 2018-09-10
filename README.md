@@ -15,3 +15,7 @@
 
 📳 [点击这里跳转 hot Water 说明](./hotWater/readme_md)
 
+### 北理珠社区小程序
+
+> 计划构思中
+
